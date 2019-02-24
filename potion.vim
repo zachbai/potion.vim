@@ -1,1 +1,0 @@
-/Users/zmb/.vim/plugged/potion.vim/
